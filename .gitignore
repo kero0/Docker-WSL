@@ -1,0 +1,7 @@
+*
+!.gitattributes
+!.gitignore
+!build.ps1
+!*.Dockerfile
+!README.md
+!wsl.conf
